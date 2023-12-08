@@ -1,0 +1,14 @@
+Machine Learning project
+
+Problem Statement:
+You are working as a data scientist in a Over the year, the Company has collected basic bank details and a lot of credit-related information. The management wants to build an intelligent system to segregate the people into credit score brackets to reduce the manual efforts
+
+Task:
+Given a person Credit-related, build a machine learning that can classify the credit score.
+
+Instructions
+- Explain the steps (6 steps we discussed in class) that you would go through to build an ML system.
+- In each step, elaborate on what you need to mindful of, what the potential issues are, and how you would solve them, and why approach makes sense.
+- No coding is required, I just want you to lay out the project plan and explain what needs to be done. Please be brief and right to point. No essay, bullet points. Your report should be two to three pages
+- Extra credit will be given if you code up all or some part Of the project
+  o If you decide to code, it should be on Jupytet Notebook. The results of running each cell should be on the code. And add comments to explain what each cell is doing. Please  convert your to Jupyter Notebook to a PDF and submit it with your report
