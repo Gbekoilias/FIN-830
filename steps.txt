@@ -1,0 +1,17 @@
+Data Collection
+ - Iddentify and acquire the data you need for machine learning
+
+ Data Exploration 
+ - Understand your data by describing and visualizing
+
+Data Preparation
+ - Modify your data so it works for the type of machine learning you intend to do.
+
+Modelling
+ - Apply a machine learning approach to your data
+
+Evaluation
+- Assess how well your Machine Learning approach worked
+
+Actionable Insight
+- Identify what to do based on the results of the Machine Learning approach you do
